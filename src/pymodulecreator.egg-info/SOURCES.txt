@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/pymodulecreator/__init__.py
+src/pymodulecreator/pymodulecreator.py
+src/pymodulecreator.egg-info/PKG-INFO
+src/pymodulecreator.egg-info/SOURCES.txt
+src/pymodulecreator.egg-info/dependency_links.txt
+src/pymodulecreator.egg-info/top_level.txt
